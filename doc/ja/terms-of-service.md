@@ -34,4 +34,4 @@ PDFスキャンエディタ（以下「本アプリ」）をダウンロード�
 
 ## 8. お問い合わせ
 
-本規約についてのご質問は、こちらまで：your-email@example.com
+本規約についてのご質問は、こちらまで：https://github.com/bosseye-app/PdfScan/issues

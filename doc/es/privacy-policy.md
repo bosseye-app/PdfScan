@@ -34,4 +34,4 @@ Podemos actualizar esta política ocasionalmente. La versión más reciente siem
 
 ## 8. Contacto
 
-Si tienes alguna pregunta, contáctanos en: your-email@example.com
+Si tienes alguna pregunta, contáctanos en: https://github.com/bosseye-app/PdfScan/issues

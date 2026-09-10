@@ -34,4 +34,4 @@
 
 ## 8. 联系我们
 
-对本条款有疑问？请联系：your-email@example.com
+对本条款有疑问？请联系：https://github.com/bosseye-app/PdfScan/issues

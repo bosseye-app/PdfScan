@@ -34,4 +34,4 @@
 
 ## 8. 聯絡我們
 
-對本條款有疑問？請聯絡：your-email@example.com
+對本條款有疑問？請聯絡：https://github.com/bosseye-app/PdfScan/issues

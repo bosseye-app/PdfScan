@@ -34,4 +34,4 @@ App 內購買由 Apple 處理，我們不會取得或儲存你的付款資訊。
 
 ## 8. 聯絡我們
 
-如有任何疑問，請聯絡：your-email@example.com
+如有任何疑問，請聯絡：https://github.com/bosseye-app/PdfScan/issues

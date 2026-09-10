@@ -34,4 +34,4 @@ App内課金はAppleが処理します。私たちはあなたの支払い情報
 
 ## 8. お問い合わせ
 
-ご質問がある場合は、こちらまでご連絡ください：your-email@example.com
+ご質問がある場合は、こちらまでご連絡ください：https://github.com/bosseye-app/PdfScan/issues

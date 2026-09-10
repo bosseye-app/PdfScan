@@ -34,4 +34,4 @@ Wir können diese Bedingungen gelegentlich aktualisieren. Die weitere Nutzung de
 
 ## 8. Kontakt
 
-Fragen zu diesen Bedingungen? Kontaktiere uns unter: your-email@example.com
+Fragen zu diesen Bedingungen? Kontaktiere uns unter: https://github.com/bosseye-app/PdfScan/issues

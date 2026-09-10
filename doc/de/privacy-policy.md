@@ -34,4 +34,4 @@ Wir können diese Richtlinie gelegentlich aktualisieren. Die jeweils aktuelle Fa
 
 ## 8. Kontakt
 
-Bei Fragen kontaktiere uns unter: your-email@example.com
+Bei Fragen kontaktiere uns unter: https://github.com/bosseye-app/PdfScan/issues

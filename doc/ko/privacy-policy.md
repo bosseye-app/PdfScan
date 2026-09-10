@@ -34,4 +34,4 @@ PDF 스캔 에디터(이하 "본 앱")는 완전한 개인정보 보호를 목�
 
 ## 8. 문의
 
-궁금한 점이 있으면 다음으로 연락해 주세요: your-email@example.com
+궁금한 점이 있으면 다음으로 연락해 주세요: https://github.com/bosseye-app/PdfScan/issues

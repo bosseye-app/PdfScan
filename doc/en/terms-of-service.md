@@ -34,4 +34,4 @@ We may update these terms from time to time. Continued use of the App after chan
 
 ## 8. Contact
 
-Questions about these terms? Contact us at: your-email@example.com
+Questions about these terms? Contact us at: https://github.com/bosseye-app/PdfScan/issues

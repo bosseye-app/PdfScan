@@ -34,4 +34,4 @@ PDF 스캔 에디터(이하 "본 앱")를 다운로드하거나 사용함으로�
 
 ## 8. 문의
 
-본 약관에 대한 질문이 있으시면 다음으로 연락해 주세요: your-email@example.com
+본 약관에 대한 질문이 있으시면 다음으로 연락해 주세요: https://github.com/bosseye-app/PdfScan/issues

@@ -34,4 +34,4 @@ Nous pouvons mettre à jour ces conditions de temps à autre. L'utilisation cont
 
 ## 8. Contact
 
-Des questions sur ces conditions ? Contactez-nous à : your-email@example.com
+Des questions sur ces conditions ? Contactez-nous à : https://github.com/bosseye-app/PdfScan/issues

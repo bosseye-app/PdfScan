@@ -34,4 +34,4 @@ Podemos actualizar estos términos ocasionalmente. El uso continuado de la App t
 
 ## 8. Contacto
 
-¿Preguntas sobre estos términos? Contáctanos en: your-email@example.com
+¿Preguntas sobre estos términos? Contáctanos en: https://github.com/bosseye-app/PdfScan/issues
