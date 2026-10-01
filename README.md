@@ -5,12 +5,6 @@
 > Looking for the Chinese version? See **[PdfScan-cn.md](./PdfScan-cn.md)** — 扫描、PDF 转换、去图留文、OCR、离线隐私的完整中文介绍。
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6810740503">
-    <img src="https://cdn.electronics.apple.com/is/image/AppleInc/Available_on_App_Store_black.svg" alt="Download on the App Store" height="40">
-  </a>
-</p>
-
-<p align="center">
   <b><a href="https://apps.apple.com/app/id6810740503">PDF Scan Editor - Local Only</a></b>
 </p>
 
