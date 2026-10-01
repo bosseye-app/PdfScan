@@ -5,12 +5,6 @@
 > 想看英文版？打开 **[README.md](./README.md)**。
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6810740503">
-    <img src="https://cdn.electronics.apple.com/is/image/AppleInc/Available_on_App_Store_black.svg" alt="Download on the App Store" height="40">
-  </a>
-</p>
-
-<p align="center">
   <b><a href="https://apps.apple.com/app/id6810740503">PDF扫描编辑器 - 安全离线转换去除图片</a></b>
 </p>
 
